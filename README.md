@@ -1,2 +1,2 @@
 # prvni-projekt
-testuju
+testuju a učím se
